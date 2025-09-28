@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import HomePage from './pages/Home';
+import HomePage from './pages/home';
 import AboutPage from './pages/about';
 import CoinDetailsPage from './pages/coin-details';
 import { Routes, Route } from 'react-router';
